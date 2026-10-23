@@ -1,8 +1,8 @@
-# scrape-forumosa
-auto scraping forumosa, a taiwanese forum
+# Scrape Forumosa
+Auto scraping Forumosa, a Taiwanese forum
 
-## update
-workflow disabled as of 23 October 2026
+## Update
+Workflow disabled as of 23 October 2026
 
-## note to self
-07 lede hw
+## Notes
+Lede homework #07
